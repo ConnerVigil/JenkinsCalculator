@@ -2,6 +2,8 @@ import java.util.UUID;
 
 class Calculator {
 
+    break this
+
     Calculator(){
         // This is a test
     }
