@@ -1,7 +1,7 @@
 pipeline {
 
     environment {
-            registry = "Your_Dockerhub_Username/Your_Dockerhub_Repository_Name"
+            registry = "connervigil82/javacalulatorjenkins"
             registryCredential = 'dockerhub'
             dockerImage=''
     }
